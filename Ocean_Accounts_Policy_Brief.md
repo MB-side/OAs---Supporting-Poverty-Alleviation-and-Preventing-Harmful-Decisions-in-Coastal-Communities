@@ -1,5 +1,4 @@
-[Home](README.md) | [Full_Length_Report](Ocean_Accounts_-_Supporting_Poverty_Alleviation_and_Preventing_Harmful_Decisions_in_Coastal_CommunitiesV2.3_no_annex.md)
-Ocean Accounts - Supporting Poverty Alleviation and Preventing Harmful Decisions in Coastal CommunitiesV2.3_no annex.md
+[Home](README.md) | [Ocean Accounts - Supporting Poverty Alleviation](Ocean%20Accounts%20-%20Supporting%20Poverty%20Alleviation%20and%20Preventing%20Harmful%20Decisions%20in%20Coastal%20CommunitiesV2.3_no%20annex.md)
 
 # Policy Briefing: Making Ocean Health Visible in Poverty Reduction
 
