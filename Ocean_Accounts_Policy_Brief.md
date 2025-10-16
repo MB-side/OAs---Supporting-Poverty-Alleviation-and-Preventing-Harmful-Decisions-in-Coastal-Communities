@@ -1,3 +1,5 @@
+[Full length document](document2.md)
+
 # Policy Briefing: Making Ocean Health Visible in Poverty Reduction
 
 **Ocean accounts provide a systematic framework for integrating marine ecosystem data into poverty reduction strategies, enabling policymakers to design interventions that protect both human wellbeing and coastal ecosystems.**
