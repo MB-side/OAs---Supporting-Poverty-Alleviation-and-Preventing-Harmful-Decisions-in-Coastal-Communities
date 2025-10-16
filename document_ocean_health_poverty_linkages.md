@@ -318,5 +318,3 @@ Note: This framework enables integrated analysis of poverty-environment relation
 | Artisanal fisher numbers \- Subsistence fishing households \- Women fish processors \- Indigenous fishing communities \- Youth entering fisheries  | **Beneficiaries** | Commercial fishing operations \- Fish processing facilities \- Local fish markets \- Fishing cooperatives \- Community fishing organizations  |
 
 ## 
-
-[^1]:  Suggesting that the poverty counterfactual within the ocean space is in fact increasing poverty rates as opposed to decreasing or stable rates. The success of any action therefore should be judged on the impact of this counterfactual as opposed to the current baseline.
