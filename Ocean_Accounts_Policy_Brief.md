@@ -1,4 +1,4 @@
-[Full length document] (Ocean Accounts - Supporting Poverty Alleviation and Preventing Harmful Decisions in Coastal CommunitiesV2.3_no annex.md)
+[Full length document](Ocean Accounts - Supporting Poverty Alleviation and Preventing Harmful Decisions in Coastal CommunitiesV2.3_no annex.md)
 
 # Policy Briefing: Making Ocean Health Visible in Poverty Reduction
 
