@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Ocean Acounts: Supporting-Poverty-Alleviation-and-Preventing-Harmful-Decisions-in-Coastal-Communities"
+title: "Document: Making the invisible visible—accounting for the linkages between ocean health and poverty"
 ---
+
 [Home](README.md) | [Policy Briefing](policy_briefing_ocean_health.md) | [Ocean Health & Poverty Document](document_ocean_health_poverty_linkages.md)
 
 
