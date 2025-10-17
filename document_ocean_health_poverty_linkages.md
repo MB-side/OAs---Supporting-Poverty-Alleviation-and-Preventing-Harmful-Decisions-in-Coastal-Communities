@@ -305,7 +305,7 @@ This integrated framework provides the foundation for understanding how changes 
 
 ## Policy Applications
 
-# **Integrated Ocean-Poverty Account Framework **
+# Integrated Ocean-Poverty Account Framework
 
 Note: This framework enables integrated analysis of poverty-environment relationships in marine contexts. For example, the spatial relationship between poor fishing communities and productive fishing grounds can be analyzed alongside resource condition to understand both access to and sustainability of marine resources. These relationships can inform targeted interventions that support both poverty reduction and resource sustainability. 
 
